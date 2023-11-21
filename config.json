@@ -1,0 +1,13 @@
+{
+	"fullscreen": false,
+	"size":{
+		"x": 1280,
+		"y": 720
+	},
+	"vsync": false,
+	"fps_limit": 60,
+	"camera":{
+		"move_speed": 500,
+		"zoom_speed": 1
+	}
+}
